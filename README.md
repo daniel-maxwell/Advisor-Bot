@@ -5,4 +5,5 @@
 > The table below details the commands available in this version of
 > AdvisorBot:
 
-![Command Table](https://github.com/daniel-maxwell/AdvisorBot/blob/master/Command%20Table.png)
+![Command Table](https://github.com/daniel-maxwell/Advisor-Bot/assets/66431847/fc8b6fa6-0175-4c11-9920-29ef59b55b23)
+
