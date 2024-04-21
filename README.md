@@ -1,7 +1,7 @@
 # Introducing AdvisorBot
 
 Advisorbot is a command-line simulation of a Cryptocurrency trading analysis application.
-The tool provides the user with various functions analyse trading activity, which is parsed from a dataset of real exchange acitivity from 2017 over a period of one hour, at 5-minute time intervals.
+The tool provides the user with various functions to analyse trading activity, which is parsed from a dataset of real exchange acitivity from 2017 over a period of one hour, at 5-minute time intervals.
 Various commands enable the user to explore price fluctuations, compare currencies at different time intervals and much more.
 
 The table below details the commands available in this version of AdvisorBot:
