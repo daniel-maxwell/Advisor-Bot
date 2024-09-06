@@ -18,7 +18,7 @@ The table below details the commands available in this version of AdvisorBot:
 ![AdvisorBot](https://github.com/daniel-maxwell/Advisor-Bot/assets/66431847/a20405e2-3823-49b3-a242-334a9c970c26)
 
 ### Tech Used
-C++17
+C++17 STL
 
 Author
 ======
